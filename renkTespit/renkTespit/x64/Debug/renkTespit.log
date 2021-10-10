@@ -1,0 +1,42 @@
+﻿  Kaynak.cpp
+C:\Users\User\source\repos\renkTespit\renkTespit\Kaynak.cpp(48,23): warning C4244: '=': 'double' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\User\source\repos\renkTespit\renkTespit\Kaynak.cpp(49,23): warning C4244: '=': 'double' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\User\source\repos\renkTespit\renkTespit\Kaynak.cpp(54,71): warning C4244: 'bağımsız değişken': 'double' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\User\source\repos\renkTespit\renkTespit\Kaynak.cpp(54,51): warning C4244: 'bağımsız değişken': 'double' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\User\source\repos\renkTespit\renkTespit\Kaynak.cpp(63,32): warning C4244: '=': 'double' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\User\source\repos\renkTespit\renkTespit\Kaynak.cpp(64,32): warning C4244: '=': 'double' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\User\source\repos\renkTespit\renkTespit\Kaynak.cpp(68,80): warning C4244: 'bağımsız değişken': 'double' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\User\source\repos\renkTespit\renkTespit\Kaynak.cpp(68,59): warning C4244: 'bağımsız değişken': 'double' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=int
+          ]
+  renkTespit.vcxproj -> C:\Users\User\source\repos\renkTespit\x64\Debug\renkTespit.exe
